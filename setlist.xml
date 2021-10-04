@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "style.css"?>
+<SETLIST>
+  <SONG>
+    <TITLE>Oh Dove</TITLE>
+    <ARTIST>Men I Trust</ARTIST>
+    <GENRE>Indie/Singer-Songwriter</GENRE>
+    <YEAR>2021</YEAR>
+  </SONG>
+
+  <SONG>
+    <TITLE>Pais Nublado</TITLE>
+    <ARTIST>Helado Negro</ARTIST>
+    <GENRE>Indie/Singer-Songwriter</GENRE>
+    <YEAR>2019</YEAR>
+  </SONG>
+
+  <SONG>
+    <TITLE>Good Ones</TITLE>
+    <ARTIST>Charli XCX</ARTIST>
+    <GENRE>Hyperpop</GENRE>
+    <YEAR>2021</YEAR>
+  </SONG>
+
+  <SONG>
+    <TITLE>Bonito Jingle</TITLE>
+    <ARTIST>Kero Kero Bonito</ARTIST>
+    <GENRE>Experimental Pop</GENRE>
+    <YEAR>2014</YEAR>
+  </SONG>
+
+  <SONG>
+    <TITLE>async - ARCA Remix</TITLE>
+    <ARTIST>Ryuichi Sakamoto and Arca</ARTIST>
+    <GENRE>Experimental Pop</GENRE>
+    <YEAR>2017</YEAR>
+  </SONG>
+
+  <SONG>
+    <TITLE>Blaxploitation</TITLE>
+    <ARTIST>Noname</ARTIST>
+    <GENRE>Experimental Rap</GENRE>
+    <YEAR>2018</YEAR>
+  </SONG>
+
+  <SONG>
+    <TITLE>Time Will Tell</TITLE>
+    <ARTIST>Blood Orange</ARTIST>
+    <GENRE>Soul</GENRE>
+    <YEAR>2013</YEAR>
+  </SONG>
+
+  <SONG>
+    <TITLE>Cherry-coloured Funk</TITLE>
+    <ARTIST>Cocteau Twins</ARTIST>
+    <GENRE>Pop</GENRE>
+    <YEAR>1990</YEAR>
+  </SONG>
+
+  <SONG>
+    <TITLE>Visions</TITLE>
+    <ARTIST>Cecile McLorin Salvant</ARTIST>
+    <GENRE>Jazz</GENRE>
+    <YEAR>2015</YEAR>
+  </SONG>
+
+  <SONG>
+    <TITLE>How to Forgive</TITLE>
+    <ARTIST>Tennis</ARTIST>
+    <GENRE>Pop</GENRE>
+    <YEAR>2020</YEAR>
+  </SONG>
+
+</SETLIST>

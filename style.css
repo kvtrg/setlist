@@ -1,0 +1,26 @@
+SETLIST {
+    font-family: sans-serif;
+    background-color: #ffcc33;
+    width: 100%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+SONG {
+    display: block;
+    margin-bottom: 30pt;
+}
+TITLE {
+    display: block;
+    color: #ff6633;
+    font-size: 25pt;
+}
+ARTIST {
+    display: block;
+    color: #6699cc;
+    font-size: 20pt;
+}
+GENRE, YEAR {
+    display: block;
+    color: #231f20;
+    margin-left: 20pt;
+}
